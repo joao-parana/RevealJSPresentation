@@ -1,0 +1,37 @@
+{
+	"rows" : [
+			{
+				"slideId" : 26,
+				"shortname" : "Reproduzir condições específicas",
+				"title" : "Previsibilidade",
+				"description" : "<p>Recipientes ou Contêiner Docker são capazes de \"embrulhar\" uma funcionalidade de software em um sistema de arquivos contendo tudo que é necessário para sua execução: </p><p><ul><li>código</li><li>ambiente de tempo de execução</li><li>ferramentas de sistema</li><li>bibliotecas de sistema</li><li>qualquer coisa que você possa instalar em um servidor. </li></ul></p> <p>Isso garante que a aplicação sempre será executada do mesmo jeito (independentemente do ambiente operacional no qual está sendo executada).</p>"
+			},
+			{
+				"slideId" : 15,
+				"shortname" : "Licks Tour",
+				"title" : 2002,
+				"description" : "The Licks Tour was a lengthy, worldwide concert tour held during 2002 and 2003 by The Rolling Stones. Its start was somewhat concurrent with the compilation album Forty Licks, which was released on October 1, 2002."
+			},
+			{
+				"slideId" : 21,
+				"shortname" : "A Bigger Bang",
+				"title" : 2005,
+				"description" : "A Bigger Bang was a worldwide concert tour by The Rolling Stones which took place between August 2005 and August 2007, in support of their album A Bigger Bang. It has become the second highest grossing tour of all time with $558,255,524 earned, behind only U2 360 Tour by U2."
+			} ],
+	"time" : 0.004,
+	"fields" : {
+		"title" : {
+			"type" : "string"
+		},
+		"shortname" : {
+			"type" : "string"
+		},
+		"description" : {
+			"type" : "string"
+		},
+		"slideId" : {
+			"type" : "number"
+		}
+	},
+	"total_rows" : 3
+}
